@@ -1,4 +1,4 @@
-# master-s-assignments
+# Academic assignment for Bioinforatics Master.
 For the needs of the specific exercise, data from Eurostat are used and more
 precisely the 2011 Census Hub (https://ec.europa.eu/eurostat/web/population-
 and-housing-census/census-data/2011-census)
